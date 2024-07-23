@@ -1,0 +1,9 @@
+{
+	"name": "abhiv2batch19",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "21d7ca3c-303e-4faf-ad58-2cfd1e2b551b",
+		"tenantId": "8d1b947b-6f5b-43ea-8f96-0b61bbce00f2"
+	}
+}
